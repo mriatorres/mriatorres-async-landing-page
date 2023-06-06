@@ -1,0 +1,27 @@
+{
+  "name": "rockys-horror-async-landing-page",
+  "version": "1.0.0",
+  "description": "Rocky's horror picture show landing page",
+  "main": "index.js",
+  "scripts": {
+    "build-css":"tailwindcss build src/styles.css -o public/styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mriatorres/rockys-horror-async-landing-page.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "API",
+    "Tailwindcss"
+  ],
+  "author": "@mriatorres <mariaf7458@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mriatorres/rockys-horror-async-landing-page/issues"
+  },
+  "homepage": "https://github.com/mriatorres/rockys-horror-async-landing-page#readme",
+  "dependencies": {
+    "tailwindcss": "^3.3.2"
+  }
+}
