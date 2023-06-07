@@ -4,7 +4,7 @@
   "description": "Rocky's horror picture show landing page",
   "main": "index.js",
   "scripts": {
-    "build-css":"tailwindcss build src/styles.css -o public/styles.css"
+    "build-css": "tailwindcss build src/styles.css -o public/styles.css"
   },
   "repository": {
     "type": "git",
@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/mriatorres/rockys-horror-async-landing-page#readme",
   "dependencies": {
+    "jquery": "^3.7.0",
     "tailwindcss": "^3.3.2"
   }
 }
